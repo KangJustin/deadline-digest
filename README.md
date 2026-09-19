@@ -11,7 +11,7 @@ Built for Fall 2026: STAT 159, ENGIN 183, CW 11, and IEOR 142A.
 The email has two sections:
 
 1. **Due in the next 7 days.** Everything, grouped by day, with the due time, a countdown ("today", "tomorrow", "in 3 days"), a course color tag, and the first line of the event's instructions.
-2. **On the horizon.** Only major items (exams, projects, problem sets, speeches, proposals) due 8–21 days out, so big deadlines show up early.
+2. **On the horizon.** Only major items (exams, quizzes, projects, problem sets, speeches, proposals) due 8–21 days out, so big deadlines show up early.
 
 Items labeled "estimated" are dates that haven't been confirmed by the course yet.
 

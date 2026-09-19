@@ -24,7 +24,7 @@ const CONFIG = {
     'CW 11':     { color: '#712B13', bg: '#FAECE7', link: 'https://bcourses.berkeley.edu/courses/1556297' },
     'IEOR 142A': { color: '#72243E', bg: '#FBEAF0', link: 'https://bcourses.berkeley.edu/courses/1558092' },
   },
-  majorPattern: /exam|midterm|final|project|report|proposal|presentation|speech|problem set|video/i,
+  majorPattern: /exam|midterm|final|project|report|proposal|presentation|speech|problem set|video|quiz/i,
 };
 
 const DAY_MS = 24 * 60 * 60 * 1000;
